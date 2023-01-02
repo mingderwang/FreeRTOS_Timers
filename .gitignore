@@ -1,0 +1,6 @@
+STM32CubeIDE/**/FreeRTOS_Timers.elf
+STM32CubeIDE/**/FreeRTOS_Timers.list
+STM32CubeIDE/**/FreeRTOS_Timers.map
+STM32CubeIDE/**/*.d
+STM32CubeIDE/**/*.o
+STM32CubeIDE/**/*.su
